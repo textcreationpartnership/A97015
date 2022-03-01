@@ -1,0 +1,407 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brandy-wine, in the Hollanders ingratitude. Being a serious expostulation of an English souldier with the Dutch: wherein he debateth with them of former kindnesse received from England, and the cause of their base requitall now, being so effascinated with Machivels pollicies, that they are foolishly charm'd with the magicall spells of monarchy, to subvert their owne fundamentall principles, that engage in a warre against England, to the ruine of her owne liberties. / By J.W. musophilus &amp; miles vertatis.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97015</idno>
+            <idno type="STC">Wing W45</idno>
+            <idno type="STC">Thomason E672_5</idno>
+            <idno type="STC">ESTC R207128</idno>
+            <idno type="EEBO-CITATION">99866199</idno>
+            <idno type="PROQUEST">99866199</idno>
+            <idno type="VID">166244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166244)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E672[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brandy-wine, in the Hollanders ingratitude. Being a serious expostulation of an English souldier with the Dutch: wherein he debateth with them of former kindnesse received from England, and the cause of their base requitall now, being so effascinated with Machivels pollicies, that they are foolishly charm'd with the magicall spells of monarchy, to subvert their owne fundamentall principles, that engage in a warre against England, to the ruine of her owne liberties. / By J.W. musophilus &amp; miles vertatis.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.F.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M.D.C.LII. [1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "July. 30.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Netherlands --  History --  1648-1714 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166244:1" rendition="simple:additions"/>
+            <p>
+               <hi>Brandy-Wine,</hi> IN THE HOLLANDERS INGRATITUDE.</p>
+            <p>BEING A ſerious Expoſtulation of an <hi>Engliſh</hi> Souldier with the <hi>Dutch:</hi> Wherein he debateth with them of former kindneſſe received from ENGLAND, And the Cauſe of their baſe requitall now, being ſo effaſcinated with <hi>Machivels</hi> Pollicies, that they are fooliſhly charm'd with the Magicall Spells of MONARCHY, To ſubvert their owne fundamentall Principles, that engage in a Warre againſt <hi>England,</hi> to the ruine of her owne Liberties.</p>
+            <p>By <hi>J. W.</hi> Muſophilus &amp; miles veritatis.</p>
+            <q>
+               <l>Bella per Aematheos pluſquam Civilae campes,</l>
+               <l>Juſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> datum ſceleri, cammus Populu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> potentem.</l>
+               <bibl>
+                  <hi>Lucan.</hi>
+               </bibl>
+            </q>
+            <p>Printed for <hi>T. F.</hi> M.D.C.LII.</p>
+            <pb facs="tcp:166244:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:166244:3"/>
+            <head>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon the</hi> DUTCH <hi>Quarrelling with</hi> ENGLAND.</head>
+            <l>VVHat <hi>Hogen!</hi> what? In haſt thus all a-float?</l>
+            <l>Top, and Top-gallant, in thy Fiſhing-boat.</l>
+            <l>Me thinkes, thy Quarrell, doth not now ariſe</l>
+            <l>From Judgement, when both thine eares, and eyes,</l>
+            <l>Tho' haſt heard, and ſeen our <hi>Engliſh</hi>-armes, were ſpred</l>
+            <l>For thy defence, that when thou wert even dead</l>
+            <l>With thoſe fierce lookes, <hi>Specke-Jan</hi> did caſt at thee,</l>
+            <l>(Threatning to root up quite the <hi>Orange-tree.</hi>)</l>
+            <l>When with Muſtachios ſtarcht, hee lookt as bigge</l>
+            <l>As <hi>Don Quixot,</hi> and valued not a Figge</l>
+            <l>Thy <hi>Barnevelt,</hi> (had not our gallant VERE,</l>
+            <l>And moſt renowned SYDNEY, ſtill been there</l>
+            <l>With thouſands moe brave <hi>Engliſh.</hi>) Wee ſtill ſtood</l>
+            <l>Firme to thy Quarrell, ſealing with our Blood</l>
+            <l>Thy vindication, when thou wert ſo low,</l>
+            <l>In power and ſtrength, that thou doſt chiefly owe</l>
+            <l>Thy State and fortunes, to thoſe valiant hands,</l>
+            <l>That made thee Maſter of the <hi>Netherlands.</hi>
+            </l>
+            <l>What alteration's this? That now thy Friends</l>
+            <l>Are odious growne? That had no other ends</l>
+            <l>Then make thee great, what is thy mind elate?</l>
+            <l>With <hi>Brandy-wine,</hi> ſince thou becam'ſt a <hi>State?</hi>
+            </l>
+            <l>What is the cauſe, thou proudly doſt begin</l>
+            <l>To briſtle thus againſt Us? Tell what ſinne,</l>
+            <l>What Treſpaſſe done againſt thee, haſt thou found</l>
+            <l>By th' <hi>Engliſh</hi> now? Which makes thy rage abound</l>
+            <pb n="3" facs="tcp:166244:3"/>
+            <l>So much with rancour; that thy <hi>Boares</hi> awake</l>
+            <l>To fight againſt themſelves, and parties take</l>
+            <l>With Monarchie, which long ere this had ſtretcht</l>
+            <l>His bloudy fingers ore thy back, and reacht</l>
+            <l>Thy richeſt Jewell, had not our <hi>Engliſh Croſſe</hi>
+            </l>
+            <l>Stood in his way, and forc't him to his loſſe,</l>
+            <l>To leave his Plundering, that thy chiefeſt Towne,</l>
+            <l>Had op't her gates, and to his glorious Crowne</l>
+            <l>Given admittance, that with <hi>Dons</hi> would fill</l>
+            <l>Thy Garriſons, and ſcourge thee at his will.</l>
+            <l>And wilt thou prove ſuch an ungratefull Friend</l>
+            <l>Thus to requite us baſely now in th'end?</l>
+            <l>J ſee thou wilt, and that th'expence and Coſt</l>
+            <l>Caſt on a Dung-hill, is conſum'd and loſt.</l>
+            <l>And that that fabrick ſinkes, and cannot ſtand:</l>
+            <l>Whoſe weake foundation's rear'd upon the Sand.</l>
+            <l>Like to thy Friendſhip <hi>Hoghen!</hi> That ne're puts</l>
+            <l>More faith, then <hi>Spanto Croon,</hi> into thy guts.</l>
+            <l>If no more Faith, then <hi>Spanto Croon,</hi> is felt:</l>
+            <l>Then no more Fiſh, if thou deny'ſt thy Gelt.</l>
+            <l>To vaile thy Top-ſayle; thou diſdain'ſt, but why?</l>
+            <l>Thou meanſt t'advance again the Progenie,</l>
+            <l>Of STVART'S Line, oh! that is brave J'le ſweare</l>
+            <l>To thinke that wee ſhould a dead Lyon feare.</l>
+            <l>Or elſe for t'heare thy <hi>Belgick</hi> Lyon rore:</l>
+            <l>By th' <hi>Engliſh</hi> kept from him that ſought to gore</l>
+            <l>His ſides with ſharpeſt Pikes, whoſe haughty rage,</l>
+            <l>Not all thy Wealth, nor Trafficke, could aſſwage.</l>
+            <l>But that becauſe <hi>DON's Spante Croon,</hi> might choke</l>
+            <l>Thee without Muſtard, under the <hi>Spaniſh</hi> yoke,</l>
+            <l>Hee meanes to feed thee ſo, that thou may'ſt yeeld</l>
+            <l>Thy Freedomes up, and an<note n="*" place="margin">His Pal<g ref="char:EOLhyphen"/>lace at <hi>Madrid.</hi>
+               </note> 
+               <hi>Eſcuriall</hi> build</l>
+            <l>At <hi>Oſtend,</hi> or the <hi>Hague,</hi> when once his Grace</l>
+            <l>Should in thy Coaſts, but deigne to ſhew his face.</l>
+            <pb n="4" facs="tcp:166244:4"/>
+            <l>And grace thee with his Traine of <hi>Spaniſh DONS:</hi>
+            </l>
+            <l>Whoſe ſight, would fright thee more then all his Guns.</l>
+            <l>When th' <hi>Engliſh</hi> ſtood to back thee, who did beare</l>
+            <l>The ſtreſſe of Battaile both in front and reare.</l>
+            <l>
+               <hi>Sluce, Nuiport, <g ref="char:V">Ʋ</g>treight,</hi> and moe Places too:</l>
+            <l>Can witneſſe well, what th' <hi>Engliſh</hi> there did doe</l>
+            <l>For thine Advancement, when their ground did faile</l>
+            <l>T'afford them footing, yet they did not quaile,</l>
+            <l>Nor did their Valour ſhrinke, but fought it out,</l>
+            <l>Till their diſpute was clear'd of all the doubt.</l>
+            <l>The Blood wee loſt there, being of too great price;</l>
+            <l>Then for ſuch <hi>Boares,</hi> to be a Sacrifice.</l>
+            <l>Thy ground too dull, and baſe, for to receive</l>
+            <l>Their Corps, that did ſuch brave Examples leave</l>
+            <l>Of Valour to the world, that thou canſt not</l>
+            <l>Ever forget (unleſſe thou doſt turne <hi>Scot</hi>)</l>
+            <l>As now thou doſt expreſſe. Wee forward were</l>
+            <l>Upon thy Termes, all times t'engage, even there</l>
+            <l>Our richeſt Jewels, though thou bee'ſt ſo baſe</l>
+            <l>To leave us in the ſame concluded Caſe.</l>
+            <l>What didſt thou mean then <hi>Hogen!</hi> Thus to brave</l>
+            <l>Us in our owne Dominions? That but crave</l>
+            <l>A moderate Vicinitie, from thee:</l>
+            <l>That hadſt our Blood, and Wealth to ſet thee free.</l>
+            <l>What meaneth this new Quarrell, what debate</l>
+            <l>Canſt thou find out to vexe our <hi>Engliſh</hi> State?</l>
+            <l>That thine is th'Elder, count it ſo at home:</l>
+            <l>There's no Succeſſion, that ſhall give thee roome</l>
+            <l>Upon our Seas, to dare us at our Doores,</l>
+            <l>And cut our Throats for kindneſſe, on our ſhoares.</l>
+            <l>Wherefore durſt roguiſh <hi>Trumpe,</hi> elſe once deny</l>
+            <l>To vaile his Top? But that thou darſt defie</l>
+            <l>Thine owne ſecurity, t'awake their Spleene</l>
+            <l>That heretofore have thy preſervers beene,</l>
+            <pb n="5" facs="tcp:166244:4"/>
+            <l>To prove how thy Deſtroyers, when with Love</l>
+            <l>They courted thee, but all in vaine to move</l>
+            <l>Thy Boariſh Conſtitution; for thou knoweſt</l>
+            <l>No more Civility, then what thou oweſt</l>
+            <l>To thine owne Gorge, on others ſtill to feed,</l>
+            <l>Or elſe no Friendſhip keepe, but hate the deed.</l>
+            <l>Of ſuch perſwaſions, that might urge thee ſo;</l>
+            <l>To thine owne good, and have per<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akers too.</l>
+            <l>Durſt <hi>Trumpe</hi> aſſume elſe Power to diſpoſe</l>
+            <l>Thy Navie, but to prejudice thy Foes?</l>
+            <l>Hee durſt not, unleſſe Councels did Create</l>
+            <l>In him a Power, ſo to maintaine thy State.</l>
+            <l>For ſure his knaviſh head muſt eyther lye</l>
+            <l>At ſtake, or thou his doings juſtifie.</l>
+            <l>What meanes thy Preparations? If ſo farre</l>
+            <l>Thou beeſt from wrong, to juſtifie a Warre.</l>
+            <l>If this bee like the kiſſes of a Friend,</l>
+            <l>J prethee tell, how ſhall imbraces end?</l>
+            <l>Thou mak'ſt thy Friends, thy Foes, that only be</l>
+            <l>But ſufferers, and ſtill involv'd with thee</l>
+            <l>In the ſame Cauſe, what is our <hi>Croſſe</hi> and <hi>Harpe</hi>
+            </l>
+            <l>Contemptible become? That thou ſo ſharpe,</l>
+            <l>And hot diſpute, about the Soveraigne Power</l>
+            <l>Over our Seas doſt urge, even to devoure</l>
+            <l>Thoſe Liberties, which with our Freedom's gain'd</l>
+            <l>With brandiſht Swords ſo fiercely wee maintain'd.</l>
+            <l>J know no reaſon for't, unleſſe thou'lt take</l>
+            <l>Our Power from us, and for thine humour ſake</l>
+            <l>Diſpoſe of us at pleaſure till wee be</l>
+            <l>So recreant baſe to begge our State of thee.</l>
+            <l>What wrongs and injuries have wee pall by,</l>
+            <l>That have been acted with thy Cruelty;</l>
+            <l>Evers to ſubvert our State and wee forborne</l>
+            <l>To ſeeke offence, although we juſtly ſcorne</l>
+            <pb n="6" facs="tcp:166244:5"/>
+            <l>Thine over-daring baſeneſſe, when w'eſpy</l>
+            <l>It over-ballanc't with baſe Peaſantry.</l>
+            <l>Where is our Agent DORISLAVS? Now ſpeake</l>
+            <l>But Truth, and then let all affection breake:</l>
+            <l>Was hee not baſely Murder'd, (for t'increaſe</l>
+            <l>Thine Hatred) then when hee was ſeeking Peace?</l>
+            <l>What was our ruine ſought in him t'orethrow</l>
+            <l>Out Liberties? And with one private blow,</l>
+            <l>Through him to wound the body of our State,</l>
+            <l>That thou didſt prove his bold Aſſaſſinate.</l>
+            <l>J'm at a Stand to muſe on't; but J ſee</l>
+            <l>Thy <hi>Brandy-wine,</hi> will make thee <hi>Snick</hi> and <hi>Snee.</hi>
+            </l>
+            <l>Oh! What was then our guilt? When farre remote</l>
+            <l>Thy ruder <hi>Boares;</hi> with Top-ſayles all a-float,</l>
+            <l>Surpriz'd our <hi>Engliſh</hi> Ships, and ſeiz'd their goods,</l>
+            <l>Deſtroy'd our Men, made havock of their Bloods,</l>
+            <l>And this ſo ſodaine, that they did not know</l>
+            <l>Of an offence, nor whence thy ſpleene ſhould grow?</l>
+            <l>How had wee guilty been of ſo fierce rage</l>
+            <l>(Which lyes unparralel'd through any Age)</l>
+            <l>When at <hi>Amboyna,</hi> (moſt inhumane part)</l>
+            <l>Thou kill'dſt our Men, and kill'dſt them too with Art?</l>
+            <l>With Rackes, and Tortures, thou didſt uſe them ſo:</l>
+            <l>That Innocent, they muſt bee guilty too,</l>
+            <l>Of ſome foule Cryme, nere thought on, oh! 'tis thus,</l>
+            <l>Thou durſt bee Cruell, yet not Conſcious,</l>
+            <l>Of thine owne Acts. But <hi>Hogen</hi> this will ſtick</l>
+            <l>Unto thy larded ſides though, <hi>Phlegmatick.</hi>
+            </l>
+            <l>And what revenge was ſought? Our goodly King,</l>
+            <l>Would nere conſent, in queſtion once to bring</l>
+            <l>Thoſe horrid Crimes, which yet aloud doe cry</l>
+            <l>For Juſtice, on thy baſeſt Treachery.</l>
+            <l>What doſt thou thinke t'abuſe us 'cauſe wee ſit</l>
+            <l>Patient, and ſuffer thine affronts, 'tis it</l>
+            <pb n="7" facs="tcp:166244:5"/>
+            <l>Makes thee ſo daring, and with ſurly brow</l>
+            <l>Confront our undertakings, or elſe how</l>
+            <l>Durſt thou to deale ſo treacherouſly baſe,</l>
+            <l>As quarrell with us, in ſo knowne a Caſe?</l>
+            <l>To give us cauſe of an offence, and ſtand</l>
+            <l>Upon't, as though on the defenſive hand.</l>
+            <l>Oh <hi>Hogen, Hogen!</hi> Haſt thou quite forgot</l>
+            <l>All former kindneſſe, that remembreſt not,</l>
+            <l>What homage thou haſt payd, when heretofore</l>
+            <l>Our <hi>Croſſes</hi> ſtill were welcome, to thy ſhore?</l>
+            <l>In any part of thy Dominions, when</l>
+            <l>They brought thee Succours and our Valiant men?</l>
+            <l>What friendſhip didſt thou ſhew us, when our Foes</l>
+            <l>Found ſhelter in thy boſome, to diſcloſe</l>
+            <l>Their horrid Plots, that elſe durſt not been ſeene</l>
+            <l>Active therein, did not King CHARLES his Queene</l>
+            <l>Our Jewels pawne for Gelt, to buy thoſe Armes;</l>
+            <l>Wherewith he wrought ſo great and manies harmes?</l>
+            <l>On all occaſions, ſtill thy Townes have bin</l>
+            <l>As Sanctuaries, to take Traytors in.</l>
+            <l>What offices of Love, as heretofore</l>
+            <l>Were acted by thy baſe Ambaſſador</l>
+            <l>Betwixt the KING and PARLIAMENT, hee'l find,</l>
+            <l>That ſees the <hi>Hogen</hi> of a Royall mind,</l>
+            <l>Inclin'd to Monarchy, but yet beware,</l>
+            <l>Thou doſt not put thy foot into a Snare.</l>
+            <l>
+               <hi>Speck Jan</hi> inſults, and turnes his Whiskers up,</l>
+            <l>In hope thou'lt pledge him in a brim-full Cup</l>
+            <l>Of rich Canarie, laughs t'heare thy Traine</l>
+            <l>
+               <hi>Vive le Roy</hi> cry, PHILIP King of <hi>Spaine,</hi>
+            </l>
+            <l>Great Duke of <hi>Burgundy,</hi> till wee ſhall take</l>
+            <l>Some of thy Townes, and ſuch Intrenchments make,</l>
+            <l>That ſhall let in the Seas, and over-whelme</l>
+            <l>Thy Countries all, then who ſhall ſteere at Helme?</l>
+            <pb n="8" facs="tcp:166244:6"/>
+            <l>With a Ceſſation, hee hath dull'd thy wit,</l>
+            <l>Which now hath brought thee into a frantick fit,</l>
+            <l>For now thou mean'ſt, to Conjure on the Seas,</l>
+            <l>And play thy Prankes, thy <hi>Skippers</hi> all like Fleas,</l>
+            <l>Muſt in and out, and where it chances byte:</l>
+            <l>But yet for all their Skill, if BLAKE ſhoot right,</l>
+            <l>Let them beware their Bones, there are true Sonnes</l>
+            <l>Of valour in our Fleet, our <hi>Engliſh</hi> Gunnes</l>
+            <l>Will ſpeake the truth, and <hi>Hogen</hi> thou mayſt find</l>
+            <l>Such ſport at Sea, that will perplex thy mind.</l>
+            <l>Recall thy Ships then, let thy ſurly <hi>Boares</hi>
+            </l>
+            <l>Find other worke, or ſeeke out Forreigne ſhoares,</l>
+            <l>Wait on <hi>Speck Jan,</hi> and on his Sea-ports keepe</l>
+            <l>A carefull Watch, or elſe hee'l fall a ſleepe.</l>
+            <l>Lay thy Deſigne, his Plate-Fleet how to get:</l>
+            <l>For that will buy more Thred to mend thy Net.</l>
+            <l>And then, wee'l Farme thee out ſome Part oth'Seas;</l>
+            <l>That ſomewhat; may thy boyling Stomack eaſe:</l>
+            <l>But on ſuch tearmes (good <hi>Hogen</hi>) that thou Pay</l>
+            <l>A Tribute, then be ſure thou keepe thy Day.</l>
+            <l>Elſe thou mayſt fiſh for Flounders, or ſtand by</l>
+            <l>And ſee us Feaſt upon thine <hi>Herring</hi> Pye.</l>
+            <l>Goe lard thy ſides with Bacon, and then tell</l>
+            <l>If <hi>Boarre</hi> in thy Diſh would not doe well.</l>
+            <l>Say 'tis much good and then wee'l ſend thee Beere</l>
+            <l>To bouze, and frolick, with thy much good cheere.</l>
+            <closer>
+               <hi>Poſt-hac majora canemus.</hi>
+               <signed>LVCANVS <hi>junior.</hi>
+               </signed>
+            </closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
